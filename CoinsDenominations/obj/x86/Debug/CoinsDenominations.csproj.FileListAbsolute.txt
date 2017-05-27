@@ -1,0 +1,5 @@
+c:\users\asiri wijesinghe\documents\visual studio 2010\Projects\CoinsDenominations\CoinsDenominations\bin\Debug\CoinsDenominations.exe
+c:\users\asiri wijesinghe\documents\visual studio 2010\Projects\CoinsDenominations\CoinsDenominations\bin\Debug\CoinsDenominations.pdb
+c:\users\asiri wijesinghe\documents\visual studio 2010\Projects\CoinsDenominations\CoinsDenominations\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\asiri wijesinghe\documents\visual studio 2010\Projects\CoinsDenominations\CoinsDenominations\obj\x86\Debug\CoinsDenominations.exe
+c:\users\asiri wijesinghe\documents\visual studio 2010\Projects\CoinsDenominations\CoinsDenominations\obj\x86\Debug\CoinsDenominations.pdb
